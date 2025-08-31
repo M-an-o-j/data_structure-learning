@@ -23,8 +23,8 @@ It doesn’t measure actual execution time, only **how it scales**.
 
 ## 3️⃣ Examples in Python
 
-### O(1) – Constant
 ```python
+O(1) – Constant
 def get_first(arr):
     return arr[0]   # always takes same time
 
